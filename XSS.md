@@ -1,8 +1,4 @@
-# Class Scheduling System v1.0 has stored cross-site scripting
-
 BUG_Author: CLJY
-
-Website source code address: https://www.sourcecodester.com/php/5175/class-scheduling-system.html
 
 Vulnerability File: /online_class_scheduling_system/admin/save_teacher.php
 
